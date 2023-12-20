@@ -1,0 +1,44 @@
+Correct
+Correct
+Correct
+Wrong
+Wrong
+Wrong
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Correct
+Wrong - Which of these are valid C++ data types?
+Name: jabir
+Email: jabir89@gmail.com
+Correct Answers: 0/10
+Correct - Which of these are valid C++ data types?
+Correct - What is the output of 'cout << (5 > 2)' in C++?
+Name: jabi
+Email: jabir@jbhdjd.com
+Correct Answers: 2/10
+Correct - Which of these are valid C++ data types?
+Correct - What is the output of 'cout << (5 > 2)' in C++?
+Name: jabir
+Email: jabir@gmail.com
+Correct Answers: 2/10
+Correct - Which of these are valid C++ data types?
+Correct - What is the output of 'cout << (5 > 2)' in C++?
+Name: jabir
+Email: jabir@gmail.com
+Correct Answers: 2/10
+Correct - Which of these are valid C++ data types?
+Correct - What is the output of 'cout << (5 > 2)' in C++?
+Name: jabir
+Email: jab@ja.com
+Correct Answers: 2/10
+Correct - Which of these are valid C++ data types?
+Correct - What is the output of 'cout << (5 > 2)' in C++?
+Name: eeee
+Email: aaaaaa
+Correct Answers: 2/10
